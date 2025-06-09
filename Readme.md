@@ -3,13 +3,9 @@
 This repository contains our submission for the RTB Hackathon. Our system leverages historical data to predict CTR, CVR, and the market price of ad impressions. Based on these predictions, the bidding engine makes real-time bid decisions under budget constraints.
 
 ------------------------------------------------------------
-Team: Access Denied (+91 83750 80625)
+Team: Access Denied (Phone Omitted)
 ------------------------------------------------------------
-Members: 
-1. Samay Jain (23/MC/128)
-2. Ibrahim Haneef (23/IT/72)
-3. Mohd Hassan (23/IT/100)
-4. Hemant Singh (23/IT/69)
+Ibrahim Haneef
 
 ------------------------------------------------------------
 Table of Contents
